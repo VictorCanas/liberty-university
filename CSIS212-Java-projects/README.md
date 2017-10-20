@@ -31,12 +31,3 @@
   - [x] Programming Assignment 7
   - <a href="https://github.com/VictorCanas/Java-projects-CSIS-212/tree/master/7-Java-Date%20and%20Employee/src">7-Java-Date and Employee</a> (4 programs) 1.Date: Displays the month, day, and year separated by forward slashes 2.DateTest: test date 3.Employee: Calculates the year salary of an employee and gives each Employee a 10% raise. 4. EmployeeTest: test employee 
 
-- Week 14 - 15: <em>Classes and Ojbects: A deeper look</em>
-  - [ ] Programming Assignment 8
-  - 8-Java-Rectangle Class:  
-
-- Week 16: <em>OOP: Inheritance and Polymorphism</em>  
-  - [ ] Final Project 
-
-- Extra Projects
-  - [ ] Tic Tac Toe  
