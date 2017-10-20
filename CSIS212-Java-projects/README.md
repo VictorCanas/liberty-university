@@ -10,7 +10,7 @@
 
 - Week 2 - 3: <em>Introduction to Java Applications; Input/Output & Operations</em>
   - [x] Programming Assignment 2 
-  - <a href="https://github.com/VictorCanas/Java-projects-CSIS-212/tree/master/4-Java-Barchart%20and%20Odd/src">2-Java-Print-types-and-Scanner</a>
+  - <a href="https://github.com/VictorCanas/liberty-university/tree/master/CSIS212-Java-projects/2-Java-Print-types-and-Scanner">2-Java-Print-types-and-Scanner</a>
 
 - Week 3 - 5: <em>Control Statements: Part 1</em>
   - [x] Programming Assignment 3 
