@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function reverse()
+{
+var str=document.getElementById('str').value;
+var len=str.length;
+var arr=[];
+var c=0;var string="";
+for(var j=1;j<=len;j++)
+{
+for(var i=0;i<j;i++) {="" arr[c]="str.substring(i,j);" c++;="" }="" }="" for(var="" k="0;k&lt;arr.length;k++)" {="" string+="arr[k]+"," ";="" }="" document.getelementbyid('date').innerhtml="string;" }="" <="" script="">
+</head>
+<body>
+<input type="text" id="str"/>
+
+
+<input type="submit" value="Get Combinations" onclick="reverse()"/>
+</body>
+</html>
+
